@@ -1,0 +1,6 @@
+train: /Users/ivanbermudez/Downloads/Yolov11_prueba_externa/Ditch_Yolov11/train/images
+val: /Users/ivanbermudez/Downloads/Yolov11_prueba_externa/Ditch_Yolov11/val/images
+test: /Users/ivanbermudez/Downloads/Yolov11_prueba_externa/Ditch_Yolov11/test/images
+
+nc: 1
+names: ['DITCH']
